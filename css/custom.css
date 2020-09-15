@@ -7,3 +7,10 @@
 	Note: This is custom css.
 
 **********************************************************************************/
+
+@font-face{
+	font-family: "raleway";
+	src: url(/La-juanita/fonts/Raleway-Black.ttf);
+	font-weight: normal;
+	font-style: normal;
+}
