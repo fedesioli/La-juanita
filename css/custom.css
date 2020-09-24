@@ -18,8 +18,3 @@
 	padding-top: 160px;
 }
 
-@media only screen and (max-width:900px){
-#section1{
-	padding-top: 0px;
-}
-}
